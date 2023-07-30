@@ -1,7 +1,7 @@
 # FamilyGuyGPT
 Generative Language Model for Family Guy Scripts
 
-A GPT-like transformer language model for generating Family Guy scripts, inspired by @karpathy's GPT-from-scratch video.
+A GPT-like transformer language model for generating Family Guy scripts, inspired by @karpathy's GPT-from-scratch video. Mainly a personal "learning experience" project.
 
 Some modifications however:
 - I use batch multi-head attention
