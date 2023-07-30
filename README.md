@@ -9,3 +9,5 @@ Some modifications however:
 - Context window increased to 380, embedding dimension also increased to 80
 
 Run code in scraper.ipynb first to generate .txt file of Family Guy scripts. Then run gpt.ipynb which contains GPT model code.
+
+Email me for weights at SurnamePronom at gmail dot com. 
